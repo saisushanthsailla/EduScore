@@ -170,5 +170,5 @@ Predicted Math Score: 72.4
 ## Author
 
 Sai Sushanth Sailla
-Aspiring AI/ML Engineer
+
 
